@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-# I am kuldeep Singh
+# I am kuldeep Singh completed the graduation from ABES INSTITUTE OF TECHNOLOGY Ghaziabad with the specialization
+  information technology . Currently join the organisation as SDE Intern at GoMilestone. 
 
 ## About
 
@@ -24,10 +25,18 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/> 
+    
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/> 
+    
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/> 
+    
     <img src="https://img.shields.io/badge/AngularJS-E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white" height="25"/>
+    
     <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25"/>
+    
+     <img src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" height="25"/>
+    
+     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
 
 </p>
 <br/>
