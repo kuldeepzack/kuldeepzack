@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I am kuldeep Singh completed the graduation from ABES INSTITUTE OF TECHNOLOGY Ghaziabad with the specialization information technology Currently join the organisation as SDE Intern at GoMilestone. 
+# I am kuldeep Singh || 💻 SDE Intern at GoMilestone || 
 
 ## About
 
