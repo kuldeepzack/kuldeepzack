@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 # I am kuldeep Singh || 💻 SDE Intern at GoMilestone || 
 
@@ -51,3 +51,7 @@
 [twitter]: https://twitter.com/Kuldeep_zack?s=08
 [instagram]: https://www.instagram.com/kuldeep_zack/
 [linkedin]: https://www.linkedin.com/in/kuldeep-singh-690b3919a/
+
+<strong>🏆 Dooboo lab's github stats</strong>
+
+<a href="https://stats.hyochan.dev/en/stats/kuldeepzack"><img src="https://stats.hyochan.dev/api/github-stats?login=kuldeepzack" width="600" /></a>
