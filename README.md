@@ -5,11 +5,10 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 
-<img src=""C:\Users\Admin\Downloads\kuldeepzack-2022-page-1.gif"" alt="gif" width="500">
 
   <video controls>
-    <source src="https://drive.google.com/file/d/1ydYrr3YH4VvyxnCehPABS5wHoEQHLW_p/view?usp=sharing" type="video/mp4">
-    Your browser does not support the video tag.
+    <source src="https://skyline.github.com/kuldeepzack/2022" alt="" width="500">
+    
   </video>
 
 
