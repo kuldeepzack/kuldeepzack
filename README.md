@@ -3,14 +3,11 @@
 # I am kuldeep Singh || 💻 SDE Intern at GoMilestone || 
 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-<!--   <img src="kuldeepzack-2022.stl"  alt="Coder GIF" width="500"> -->
-  ## GitHub Skyline
 
-Check out the [GitHub Skyline](https://skyline.github.com/kuldeepzack/2022) to visualize your GitHub contributions.
 
-## Animated GIF
+<img src=""C:\Users\Admin\Downloads\kuldeepzack-2022-page-1.gif"" alt="gif" width="500">
 
-![GitHub Gif](https://skyline.github.com/kuldeepzack/2022)
+
 
 
 
@@ -68,6 +65,5 @@ Check out the [GitHub Skyline](https://skyline.github.com/kuldeepzack/2022) to v
 
 <a href="https://stats.hyochan.dev/en/stats/kuldeepzack"><img src="https://stats.hyochan.dev/api/github-stats?login=kuldeepzack" width="600" /></a>
 
-[banner]: https://raw.githubusercontent.com/kuldeepzack/kuldeepzack/master/banner.jpg
 <img align="left" height="200" src="https://4f.to/img/2022/9/18/221645/large.png"  />
 
