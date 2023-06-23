@@ -57,3 +57,7 @@
 <strong>🏆 Dooboo lab's github stats</strong>
 
 <a href="https://stats.hyochan.dev/en/stats/kuldeepzack"><img src="https://stats.hyochan.dev/api/github-stats?login=kuldeepzack" width="600" /></a>
+
+[banner]: https://raw.githubusercontent.com/kuldeepzack/kuldeepzack/master/banner.jpg
+<img align="left" height="200" src="https://4f.to/img/2022/9/18/221645/large.png"  />
+
