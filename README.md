@@ -7,7 +7,10 @@
 
 <img src=""C:\Users\Admin\Downloads\kuldeepzack-2022-page-1.gif"" alt="gif" width="500">
 
-
+  <video controls>
+    <source src=""C:\Users\Admin\Downloads\kuldeepzack-2022-page-1.gif"" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 
 
 
