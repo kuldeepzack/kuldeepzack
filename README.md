@@ -6,7 +6,7 @@
     <td colspan="2" align="center">
       <details open><summary>GitHub Skyline</summary><img src="https://skyline.github.com/kuldeepzack/2022" alt=""></img></details>
      
-<img src="https://www.behance.net/gallery/41995087/3D-gif-collection/modules/253311637">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/41810341995087.57bd505fc7b34.gif">
 
     
   </tr>
