@@ -6,8 +6,8 @@
     <td colspan="2" align="center">
       <details open><summary>GitHub Skyline</summary><img src="https://skyline.github.com/kuldeepzack/2022" alt=""></img></details>
      
-      <img width="900" height="1" alt="">
-    </td>
+      
+    
   </tr>
   
     
