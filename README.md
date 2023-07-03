@@ -3,8 +3,8 @@
 # I am kuldeep Singh || 💻 SDE Intern at GoMilestone || 
 
   <tr>
-    <td colspan="2" align="center">
-      <details open><summary>GitHub Skyline</summary><img src="https://skyline.github.com/kuldeepzack/2022" alt=""></img></details>
+<!--     <td colspan="2" align="center">
+      <details open><summary>GitHub Skyline</summary><img src="https://skyline.github.com/kuldeepzack/2022" alt=""></img></details> -->
      
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/41810341995087.57bd505fc7b34.gif">
 
