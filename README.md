@@ -6,7 +6,7 @@
 
      
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/41810341995087.57bd505fc7b34.gif">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeepzack&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepzack" /> </p>
     
   </tr>
   
@@ -18,7 +18,8 @@
 
 
 ## About
-
+- 
+- 📫 How to reach me **kuldeepzack24@gmail.com**
 - 🏄‍ Front-end Developer.
 - 🔭 I’m currently working on Angular js.
 - 🌱 I love to visit new places every year.
