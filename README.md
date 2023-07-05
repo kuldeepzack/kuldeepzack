@@ -23,7 +23,7 @@
 - 🏄‍ Front-end Developer.
 - 🔭 I’m currently working on Angular js.
 - 🌱 I love to visit new places every year.
-- 📫 How to reach me: [Email me](mailto:kuldeepzack248@gmail.com)
+
 
 ## Let's **Connect**
 
