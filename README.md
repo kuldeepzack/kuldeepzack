@@ -19,7 +19,7 @@
 
 ## About
 - 
-- 📫 How to reach me **kuldeepzack24@gmail.com**
+- 📫 How to reach me **kuldeepzack24@gmail.com** ,  LinkedIn - (https://www.linkedin.com/in/kuldeep-singh-690b3919a/)
 - 🏄‍ Front-end Developer.
 - 🔭 I’m currently working on Angular js.
 - 🌱 I love to visit new places every year.
