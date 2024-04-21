@@ -53,6 +53,7 @@
  <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25" alt="Bootstrap Icon">
    <img src="https://img.shields.io/badge/Capacitor-4FC08D.svg?&style=for-the-badge&logo=capacitor&logoColor=white" height="25" alt="Capacitor Plugin">
      <img src="https://img.shields.io/badge/Ionic-3880FF.svg?&style=for-the-badge&logo=ionic&logoColor=white" height="25" alt="Ionic Framework">
+      <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" height="25" alt="Redux">
     
  
 </p>
